@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/juliakonkova/static/css/main.44b57f3d.chunk.css",
-    "main.js": "/juliakonkova/static/js/main.7d1fe085.chunk.js",
-    "main.js.map": "/juliakonkova/static/js/main.7d1fe085.chunk.js.map",
+    "main.css": "/juliakonkova/static/css/main.9a50acc2.chunk.css",
+    "main.js": "/juliakonkova/static/js/main.67adf4ea.chunk.js",
+    "main.js.map": "/juliakonkova/static/js/main.67adf4ea.chunk.js.map",
     "runtime-main.js": "/juliakonkova/static/js/runtime-main.23d7e0d3.js",
     "runtime-main.js.map": "/juliakonkova/static/js/runtime-main.23d7e0d3.js.map",
     "static/js/2.4f65a4ae.chunk.js": "/juliakonkova/static/js/2.4f65a4ae.chunk.js",
     "static/js/2.4f65a4ae.chunk.js.map": "/juliakonkova/static/js/2.4f65a4ae.chunk.js.map",
     "index.html": "/juliakonkova/index.html",
-    "static/css/main.44b57f3d.chunk.css.map": "/juliakonkova/static/css/main.44b57f3d.chunk.css.map",
+    "static/css/main.9a50acc2.chunk.css.map": "/juliakonkova/static/css/main.9a50acc2.chunk.css.map",
     "static/js/2.4f65a4ae.chunk.js.LICENSE.txt": "/juliakonkova/static/js/2.4f65a4ae.chunk.js.LICENSE.txt",
     "static/media/Arrow.a7f6e845.svg": "/juliakonkova/static/media/Arrow.a7f6e845.svg",
     "static/media/BubblesFAQ.785884f2.svg": "/juliakonkova/static/media/BubblesFAQ.785884f2.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.23d7e0d3.js",
     "static/js/2.4f65a4ae.chunk.js",
-    "static/css/main.44b57f3d.chunk.css",
-    "static/js/main.7d1fe085.chunk.js"
+    "static/css/main.9a50acc2.chunk.css",
+    "static/js/main.67adf4ea.chunk.js"
   ]
 }
