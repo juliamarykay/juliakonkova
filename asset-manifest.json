@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/juliakonkova/static/css/main.44b57f3d.chunk.css",
-    "main.js": "/juliakonkova/static/js/main.67adf4ea.chunk.js",
-    "main.js.map": "/juliakonkova/static/js/main.67adf4ea.chunk.js.map",
+    "main.js": "/juliakonkova/static/js/main.7d1fe085.chunk.js",
+    "main.js.map": "/juliakonkova/static/js/main.7d1fe085.chunk.js.map",
     "runtime-main.js": "/juliakonkova/static/js/runtime-main.23d7e0d3.js",
     "runtime-main.js.map": "/juliakonkova/static/js/runtime-main.23d7e0d3.js.map",
     "static/js/2.4f65a4ae.chunk.js": "/juliakonkova/static/js/2.4f65a4ae.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.23d7e0d3.js",
     "static/js/2.4f65a4ae.chunk.js",
     "static/css/main.44b57f3d.chunk.css",
-    "static/js/main.67adf4ea.chunk.js"
+    "static/js/main.7d1fe085.chunk.js"
   ]
 }
